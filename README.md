@@ -8,7 +8,7 @@ An ongoing project initiated for the final year research. Deep learning methods 
 
 **Supervised by:** [Dr. Roshan Godaliyadda](http://eng.pdn.ac.lk/deee/staff/academic/dr.gmri.godaliyadda/profile.php), [Dr. Vijitha Herath](http://eng.pdn.ac.lk/deee/staff/academic/dr.vr.herath/profile.php), and [Dr. Parakrama Ekanayake](http://eng.pdn.ac.lk/deee/staff/academic/dr.mpb.ekanayake/profile.php), and 
 
-#Project Overview ##
+##Project Overview ##
 
 A CNN based autoencoder network for hyperspectral unmixing. Paper submitted and accepted for [IEEE ICIIS 2020](https://www.iitrpr.ac.in/iciis2020/index.html).
 
